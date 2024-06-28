@@ -1,7 +1,7 @@
 import requests
 import numpy as np
 
-API_KEY = 'AIzaSyDlyWpnK-fiwApFelSNaJneFH9CUn0I5_8'
+API_KEY = '...'
 
 
 def minutes_to_degrees(minutes):
