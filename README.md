@@ -5,3 +5,7 @@ Zaimplementowałam metody interpolacji Lagrange'a oraz funkcji sklejanych trzeci
 
 ### ENG:
 I implemented Lagrange's interpolation and cubic spline methods to analyze the elevation profiles of various race tracks. Using data from Google Maps Elevation API for tracks such as Monza, Spa-Francorchamps, Marina Bay, Silverstone, and Mugello, I created elevation charts and 3D plots to visually represent altitude changes along these tracks.
+
+
+![Spa](SpaFrancorchampsGP.txt_elevation3D.png)
+![Spa](SpaFrancorchampsGP.txt_elevation.png)
